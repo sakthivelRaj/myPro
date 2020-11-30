@@ -4,6 +4,7 @@ h1{
 
 h3{
 	color: #0D16A0;
+
 }
 p{
 
@@ -36,7 +37,7 @@ p{
 			color:red;
 		}
 
-		a:activa{
+		a:active{
 			color:yellow;
 		}
 		a:visited{
