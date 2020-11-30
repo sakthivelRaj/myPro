@@ -44,12 +44,12 @@ p{
 			color: black;
 		}
 .c4{
-	border: 1px red solid;
-	border-radius: 10px;
+	border: 2px red solid;
+	border-radius: 15px;
 }
 .c4 li{
-	padding-bottom: 5px;
-	border-bottom: red 5px dotted;
+	padding-bottom: 7px;
+	border-bottom: red 6px dotted;
 }
 .c4 ul{
 	list-style-image: url('Images/nat.jpg');
